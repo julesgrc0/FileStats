@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_271" class="java.beans.XMLDecoder">
+ <string></string>
+ <string>   Name: FS_Jar.xml</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\.idea\artifacts\FS_Jar.xml</string>
+ <string>   Number lines: 10</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T21:30:59.37822Z</string>
+ <string>   Last edit at: 1604784659381</string>
+ <string>   Last access at: 2020-11-07T21:30:59.381196Z</string>
+ <string>   Parent Name: artifacts</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\.idea\artifacts</string>
+ <string></string>
+ <string></string>
+ <string>   Name: description.html</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\.idea\description.html</string>
+ <string>   Number lines: 1</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T14:27:08.346873Z</string>
+ <string>   Last edit at: 1604759228324</string>
+ <string>   Last access at: 2020-11-07T14:27:08.346873Z</string>
+ <string>   Parent Name: .idea</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\.idea</string>
+ <string></string>
+ <string></string>
+ <string>   Name: encodings.xml</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\.idea\encodings.xml</string>
+ <string>   Number lines: 6</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T14:27:30.301738Z</string>
+ <string>   Last edit at: 1604759250308</string>
+ <string>   Last access at: 2020-11-07T14:27:30.308691Z</string>
+ <string>   Parent Name: .idea</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\.idea</string>
+ <string></string>
+ <string></string>
+ <string>   Name: misc.xml</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\.idea\misc.xml</string>
+ <string>   Number lines: 9</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T14:27:08.352884Z</string>
+ <string>   Last edit at: 1604759250290</string>
+ <string>   Last access at: 2020-11-07T14:27:30.290738Z</string>
+ <string>   Parent Name: .idea</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\.idea</string>
+ <string></string>
+ <string></string>
+ <string>   Name: modules.xml</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\.idea\modules.xml</string>
+ <string>   Number lines: 8</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T14:27:08.357867Z</string>
+ <string>   Last edit at: 1604759250319</string>
+ <string>   Last access at: 2020-11-07T14:27:30.31966Z</string>
+ <string>   Parent Name: .idea</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\.idea</string>
+ <string></string>
+ <string></string>
+ <string>   Name: project-template.xml</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\.idea\project-template.xml</string>
+ <string>   Number lines: 3</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T14:27:08.360858Z</string>
+ <string>   Last edit at: 1604759228336</string>
+ <string>   Last access at: 2020-11-07T14:27:08.36183Z</string>
+ <string>   Parent Name: .idea</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\.idea</string>
+ <string></string>
+ <string></string>
+ <string>   Name: workspace.xml</string>
+ <string>   Size: 6.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\.idea\workspace.xml</string>
+ <string>   Number lines: 108</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T14:27:08.365853Z</string>
+ <string>   Last edit at: 1604784659370</string>
+ <string>   Last access at: 2020-11-07T21:30:59.370918Z</string>
+ <string>   Parent Name: .idea</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\.idea</string>
+ <string></string>
+ <string></string>
+ <string>   Name: FilesStats.iml</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\FilesStats.iml</string>
+ <string>   Number lines: 20</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T14:27:08.381803Z</string>
+ <string>   Last edit at: 1604765070008</string>
+ <string>   Last access at: 2020-11-07T16:04:30.008433Z</string>
+ <string>   Parent Name: FilesStats</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats</string>
+ <string></string>
+ <string></string>
+ <string>   Name: file_stats.txt</string>
+ <string>   Size: 2.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\FileStats 2020-11-07\file_stats.txt</string>
+ <string>   Number lines: 97</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T21:31:53.30298Z</string>
+ <string>   Last edit at: 1604784713335</string>
+ <string>   Last access at: 2020-11-07T21:31:53.335892Z</string>
+ <string>   Parent Name: FileStats 2020-11-07</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\FileStats 2020-11-07</string>
+ <string></string>
+ <string></string>
+ <string>   Name: folder_stats.txt</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\FileStats 2020-11-07\folder_stats.txt</string>
+ <string>   Number lines: 31</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T21:31:53.30298Z</string>
+ <string>   Last edit at: 1604784713336</string>
+ <string>   Last access at: 2020-11-07T21:31:53.336889Z</string>
+ <string>   Parent Name: FileStats 2020-11-07</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\FileStats 2020-11-07</string>
+ <string></string>
+ <string></string>
+ <string>   Name: tree.txt</string>
+ <string>   Size: &lt;unknow&gt;</string>
+ <string>   Path: C:\APPS\run\FilesStats\FileStats 2020-11-07\tree.txt</string>
+ <string>   Number lines: &lt;unknow&gt;</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T21:31:53.30298Z</string>
+ <string>   Last edit at: 1604784713302</string>
+ <string>   Last access at: 2020-11-07T21:31:53.30298Z</string>
+ <string>   Parent Name: FileStats 2020-11-07</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\FileStats 2020-11-07</string>
+ <string></string>
+ <string></string>
+ <string>   Name: MANIFEST.MF</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\META-INF\MANIFEST.MF</string>
+ <string>   Number lines: 3</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T21:30:49.333629Z</string>
+ <string>   Last edit at: 1604784658175</string>
+ <string>   Last access at: 2020-11-07T21:30:58.175139Z</string>
+ <string>   Parent Name: META-INF</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\META-INF</string>
+ <string></string>
+ <string></string>
+ <string>   Name: FileCreator$1.class</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator\FileCreator$1.class</string>
+ <string>   Number lines: &lt;unknow&gt;</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T18:15:00.458474Z</string>
+ <string>   Last edit at: 1604781137145</string>
+ <string>   Last access at: 2020-11-07T20:32:17.145736Z</string>
+ <string>   Parent Name: creator</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator</string>
+ <string></string>
+ <string></string>
+ <string>   Name: FileCreator.class</string>
+ <string>   Size: 4.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator\FileCreator.class</string>
+ <string>   Number lines: &lt;unknow&gt;</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T18:15:00.467192Z</string>
+ <string>   Last edit at: 1604781137157</string>
+ <string>   Last access at: 2020-11-07T20:32:17.157672Z</string>
+ <string>   Parent Name: creator</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator</string>
+ <string></string>
+ <string></string>
+ <string>   Name: TypeFile.class</string>
+ <string>   Size: 1.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator\TypeFile.class</string>
+ <string>   Number lines: &lt;unknow&gt;</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T18:15:00.48215Z</string>
+ <string>   Last edit at: 1604772900483</string>
+ <string>   Last access at: 2020-11-07T18:15:00.483149Z</string>
+ <string>   Parent Name: creator</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator</string>
+ <string></string>
+ <string></string>
+ <string>   Name: XmlCreator$1.class</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator\XmlCreator$1.class</string>
+ <string>   Number lines: &lt;unknow&gt;</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T21:28:20.350686Z</string>
+ <string>   Last edit at: 1604784580604</string>
+ <string>   Last access at: 2020-11-07T21:29:40.604144Z</string>
+ <string>   Parent Name: creator</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator</string>
+ <string></string>
+ <string></string>
+ <string>   Name: XmlCreator.class</string>
+ <string>   Size: 4.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator\XmlCreator.class</string>
+ <string>   Number lines: &lt;unknow&gt;</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T21:28:20.354677Z</string>
+ <string>   Last edit at: 1604784580613</string>
+ <string>   Last access at: 2020-11-07T21:29:40.613686Z</string>
+ <string>   Parent Name: creator</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator</string>
+ <string></string>
+ <string></string>
+ <string>   Name: Main$1.class</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\Main$1.class</string>
+ <string>   Number lines: &lt;unknow&gt;</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T20:38:28.282633Z</string>
+ <string>   Last edit at: 1604784500400</string>
+ <string>   Last access at: 2020-11-07T21:28:20.400552Z</string>
+ <string>   Parent Name: jules</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules</string>
+ <string></string>
+ <string></string>
+ <string>   Name: Main.class</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\Main.class</string>
+ <string>   Number lines: &lt;unknow&gt;</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T16:09:59.016144Z</string>
+ <string>   Last edit at: 1604784500401</string>
+ <string>   Last access at: 2020-11-07T21:28:20.401549Z</string>
+ <string>   Parent Name: jules</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules</string>
+ <string></string>
+ <string></string>
+ <string>   Name: FileStats.class</string>
+ <string>   Size: 2.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\stats\FileStats.class</string>
+ <string>   Number lines: &lt;unknow&gt;</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T17:07:10.073409Z</string>
+ <string>   Last edit at: 1604781137198</string>
+ <string>   Last access at: 2020-11-07T20:32:17.198587Z</string>
+ <string>   Parent Name: stats</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\stats</string>
+ <string></string>
+ <string></string>
+ <string>   Name: FileStatsInfo.class</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\stats\FileStatsInfo.class</string>
+ <string>   Number lines: &lt;unknow&gt;</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T17:07:10.078396Z</string>
+ <string>   Last edit at: 1604769141803</string>
+ <string>   Last access at: 2020-11-07T17:12:21.803035Z</string>
+ <string>   Parent Name: stats</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\stats</string>
+ <string></string>
+ <string></string>
+ <string>   Name: FolderStats.class</string>
+ <string>   Size: 2.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\stats\FolderStats.class</string>
+ <string>   Number lines: &lt;unknow&gt;</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T19:53:23.650235Z</string>
+ <string>   Last edit at: 1604780972033</string>
+ <string>   Last access at: 2020-11-07T20:29:32.033716Z</string>
+ <string>   Parent Name: stats</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\stats</string>
+ <string></string>
+ <string></string>
+ <string>   Name: FolderStatsInfo.class</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\stats\FolderStatsInfo.class</string>
+ <string>   Number lines: &lt;unknow&gt;</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T19:53:23.655222Z</string>
+ <string>   Last edit at: 1604778803655</string>
+ <string>   Last access at: 2020-11-07T19:53:23.655222Z</string>
+ <string>   Parent Name: stats</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\stats</string>
+ <string></string>
+ <string></string>
+ <string>   Name: Loop.class</string>
+ <string>   Size: 5.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\tree\Loop.class</string>
+ <string>   Number lines: &lt;unknow&gt;</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T21:28:20.381603Z</string>
+ <string>   Last edit at: 1604784500611</string>
+ <string>   Last access at: 2020-11-07T21:28:20.611988Z</string>
+ <string>   Parent Name: tree</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\tree</string>
+ <string></string>
+ <string></string>
+ <string>   Name: SavedStats.class</string>
+ <string>   Size: 1.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\tree\SavedStats.class</string>
+ <string>   Number lines: &lt;unknow&gt;</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T21:28:20.315796Z</string>
+ <string>   Last edit at: 1604784500316</string>
+ <string>   Last access at: 2020-11-07T21:28:20.316777Z</string>
+ <string>   Parent Name: tree</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\tree</string>
+ <string></string>
+ <string></string>
+ <string>   Name: Tree.class</string>
+ <string>   Size: 3.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\tree\Tree.class</string>
+ <string>   Number lines: &lt;unknow&gt;</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T21:28:20.297827Z</string>
+ <string>   Last edit at: 1604784500298</string>
+ <string>   Last access at: 2020-11-07T21:28:20.298824Z</string>
+ <string>   Parent Name: tree</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\tree</string>
+ <string></string>
+ <string></string>
+ <string>   Name: FileCreator.java</string>
+ <string>   Size: 4.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\src\com\jules\creator\FileCreator.java</string>
+ <string>   Number lines: 147</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T17:21:19.380191Z</string>
+ <string>   Last edit at: 1604781109061</string>
+ <string>   Last access at: 2020-11-07T20:31:49.061606Z</string>
+ <string>   Parent Name: creator</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\src\com\jules\creator</string>
+ <string></string>
+ <string></string>
+ <string>   Name: TypeFile.java</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\src\com\jules\creator\TypeFile.java</string>
+ <string>   Number lines: 7</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T17:24:27.278829Z</string>
+ <string>   Last edit at: 1604769925657</string>
+ <string>   Last access at: 2020-11-07T17:25:25.657782Z</string>
+ <string>   Parent Name: creator</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\src\com\jules\creator</string>
+ <string></string>
+ <string></string>
+ <string>   Name: XmlCreator.java</string>
+ <string>   Size: 3.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\src\com\jules\creator\XmlCreator.java</string>
+ <string>   Number lines: 115</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T19:14:27.618229Z</string>
+ <string>   Last edit at: 1604784577699</string>
+ <string>   Last access at: 2020-11-07T21:29:37.699677Z</string>
+ <string>   Parent Name: creator</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\src\com\jules\creator</string>
+ <string></string>
+ <string></string>
+ <string>   Name: Main.java</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\src\com\jules\Main.java</string>
+ <string>   Number lines: 23</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T14:27:08.375815Z</string>
+ <string>   Last edit at: 1604781629341</string>
+ <string>   Last access at: 2020-11-07T20:40:29.341194Z</string>
+ <string>   Parent Name: jules</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\src\com\jules</string>
+ <string></string>
+ <string></string>
+ <string>   Name: FileStats.java</string>
+ <string>   Size: 1.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\src\com\jules\stats\FileStats.java</string>
+ <string>   Number lines: 52</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T16:16:55.710768Z</string>
+ <string>   Last edit at: 1604781136210</string>
+ <string>   Last access at: 2020-11-07T20:32:16.210828Z</string>
+ <string>   Parent Name: stats</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\src\com\jules\stats</string>
+ <string></string>
+ <string></string>
+ <string>   Name: FileStatsInfo.java</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\src\com\jules\stats\FileStatsInfo.java</string>
+ <string>   Number lines: 17</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T16:28:12.250199Z</string>
+ <string>   Last edit at: 1604769139707</string>
+ <string>   Last access at: 2020-11-07T17:12:19.707793Z</string>
+ <string>   Parent Name: stats</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\src\com\jules\stats</string>
+ <string></string>
+ <string></string>
+ <string>   Name: FolderStats.java</string>
+ <string>   Size: 1.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\src\com\jules\stats\FolderStats.java</string>
+ <string>   Number lines: 52</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T19:41:53.604563Z</string>
+ <string>   Last edit at: 1604780917260</string>
+ <string>   Last access at: 2020-11-07T20:28:37.260545Z</string>
+ <string>   Parent Name: stats</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\src\com\jules\stats</string>
+ <string></string>
+ <string></string>
+ <string>   Name: FolderStatsInfo.java</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\src\com\jules\stats\FolderStatsInfo.java</string>
+ <string>   Number lines: 15</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T19:43:47.172036Z</string>
+ <string>   Last edit at: 1604778285755</string>
+ <string>   Last access at: 2020-11-07T19:44:45.755357Z</string>
+ <string>   Parent Name: stats</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\src\com\jules\stats</string>
+ <string></string>
+ <string></string>
+ <string>   Name: Loop.java</string>
+ <string>   Size: 3.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\src\com\jules\tree\Loop.java</string>
+ <string>   Number lines: 78</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T15:59:12.982464Z</string>
+ <string>   Last edit at: 1604784285208</string>
+ <string>   Last access at: 2020-11-07T21:24:45.208868Z</string>
+ <string>   Parent Name: tree</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\src\com\jules\tree</string>
+ <string></string>
+ <string></string>
+ <string>   Name: SavedStats.java</string>
+ <string>   Size: 0.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\src\com\jules\tree\SavedStats.java</string>
+ <string>   Number lines: 30</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T20:41:02.9144Z</string>
+ <string>   Last edit at: 1604784259078</string>
+ <string>   Last access at: 2020-11-07T21:24:19.078585Z</string>
+ <string>   Parent Name: tree</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\src\com\jules\tree</string>
+ <string></string>
+ <string></string>
+ <string>   Name: Tree.java</string>
+ <string>   Size: 2.0 ko</string>
+ <string>   Path: C:\APPS\run\FilesStats\src\com\jules\tree\Tree.java</string>
+ <string>   Number lines: 69</string>
+ <string>   is Hidden: false</string>
+ <string>   Created at: 2020-11-07T14:27:41.212873Z</string>
+ <string>   Last edit at: 1604784498244</string>
+ <string>   Last access at: 2020-11-07T21:28:18.244503Z</string>
+ <string>   Parent Name: tree</string>
+ <string>   Parent Path: C:\APPS\run\FilesStats\src\com\jules\tree</string>
+ <string></string>
+</java>

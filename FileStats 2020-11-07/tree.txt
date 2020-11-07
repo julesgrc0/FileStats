@@ -1,0 +1,69 @@
+
+Start at: Sat Nov 07 22:31:53 CET 2020
+End at: Sat Nov 07 22:31:53 CET 2020
+Duration: 84 ms
+Larger file: 6 ko
+Smallest file: 0 ko
+Larger folder: 29 ko
+Smallest folder: 0 ko
+File with the most lines: 147
+File with fewer lines: 0
+Folder count: 18
+Files count: 37
+Total count: 55
+
+C:\APPS\run\FilesStats\.idea
+C:\APPS\run\FilesStats\.idea\artifacts
+C:\APPS\run\FilesStats\.idea\artifacts\FS_Jar.xml
+C:\APPS\run\FilesStats\.idea\description.html
+C:\APPS\run\FilesStats\.idea\encodings.xml
+C:\APPS\run\FilesStats\.idea\misc.xml
+C:\APPS\run\FilesStats\.idea\modules.xml
+C:\APPS\run\FilesStats\.idea\project-template.xml
+C:\APPS\run\FilesStats\.idea\workspace.xml
+C:\APPS\run\FilesStats\FilesStats.iml
+C:\APPS\run\FilesStats\FileStats 2020-11-07
+C:\APPS\run\FilesStats\FileStats 2020-11-07\file_stats.txt
+C:\APPS\run\FilesStats\FileStats 2020-11-07\folder_stats.txt
+C:\APPS\run\FilesStats\FileStats 2020-11-07\tree.txt
+C:\APPS\run\FilesStats\META-INF
+C:\APPS\run\FilesStats\META-INF\MANIFEST.MF
+C:\APPS\run\FilesStats\out
+C:\APPS\run\FilesStats\out\production
+C:\APPS\run\FilesStats\out\production\FilesStats
+C:\APPS\run\FilesStats\out\production\FilesStats\com
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator\FileCreator$1.class
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator\FileCreator.class
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator\TypeFile.class
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator\XmlCreator$1.class
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator\XmlCreator.class
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\Main$1.class
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\Main.class
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\stats
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\stats\FileStats.class
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\stats\FileStatsInfo.class
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\stats\FolderStats.class
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\stats\FolderStatsInfo.class
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\tree
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\tree\Loop.class
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\tree\SavedStats.class
+C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\tree\Tree.class
+C:\APPS\run\FilesStats\src
+C:\APPS\run\FilesStats\src\com
+C:\APPS\run\FilesStats\src\com\jules
+C:\APPS\run\FilesStats\src\com\jules\creator
+C:\APPS\run\FilesStats\src\com\jules\creator\FileCreator.java
+C:\APPS\run\FilesStats\src\com\jules\creator\TypeFile.java
+C:\APPS\run\FilesStats\src\com\jules\creator\XmlCreator.java
+C:\APPS\run\FilesStats\src\com\jules\Main.java
+C:\APPS\run\FilesStats\src\com\jules\stats
+C:\APPS\run\FilesStats\src\com\jules\stats\FileStats.java
+C:\APPS\run\FilesStats\src\com\jules\stats\FileStatsInfo.java
+C:\APPS\run\FilesStats\src\com\jules\stats\FolderStats.java
+C:\APPS\run\FilesStats\src\com\jules\stats\FolderStatsInfo.java
+C:\APPS\run\FilesStats\src\com\jules\tree
+C:\APPS\run\FilesStats\src\com\jules\tree\Loop.java
+C:\APPS\run\FilesStats\src\com\jules\tree\SavedStats.java
+C:\APPS\run\FilesStats\src\com\jules\tree\Tree.java

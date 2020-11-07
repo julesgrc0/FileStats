@@ -1,0 +1,181 @@
+
+{
+   Name: .idea
+   Size: 7.0 ko
+   Path: C:\APPS\run\FilesStats\.idea
+   is Hidden: false
+   Created at: 2020-11-07T14:27:08.346007Z
+   Last access at: 2020-11-07T21:30:59.376225Z
+   Parent Name: FilesStats
+   Parent Path: C:\APPS\run\FilesStats
+}
+{
+   Name: artifacts
+   Size: 0.0 ko
+   Path: C:\APPS\run\FilesStats\.idea\artifacts
+   is Hidden: false
+   Created at: 2020-11-07T21:30:59.376225Z
+   Last access at: 2020-11-07T21:30:59.385172Z
+   Parent Name: .idea
+   Parent Path: C:\APPS\run\FilesStats\.idea
+}
+{
+   Name: FileStats 2020-11-07
+   Size: 4.0 ko
+   Path: C:\APPS\run\FilesStats\FileStats 2020-11-07
+   is Hidden: false
+   Created at: 2020-11-07T21:31:53.301983Z
+   Last access at: 2020-11-07T21:31:53.303978Z
+   Parent Name: FilesStats
+   Parent Path: C:\APPS\run\FilesStats
+}
+{
+   Name: META-INF
+   Size: 0.0 ko
+   Path: C:\APPS\run\FilesStats\META-INF
+   is Hidden: false
+   Created at: 2020-11-07T21:30:49.332632Z
+   Last access at: 2020-11-07T21:30:49.333629Z
+   Parent Name: FilesStats
+   Parent Path: C:\APPS\run\FilesStats
+}
+{
+   Name: out
+   Size: 29.0 ko
+   Path: C:\APPS\run\FilesStats\out
+   is Hidden: false
+   Created at: 2020-11-07T14:29:13.903434Z
+   Last access at: 2020-11-07T14:29:13.903434Z
+   Parent Name: FilesStats
+   Parent Path: C:\APPS\run\FilesStats
+}
+{
+   Name: production
+   Size: 29.0 ko
+   Path: C:\APPS\run\FilesStats\out\production
+   is Hidden: false
+   Created at: 2020-11-07T14:29:13.903434Z
+   Last access at: 2020-11-07T14:29:13.903434Z
+   Parent Name: out
+   Parent Path: C:\APPS\run\FilesStats\out
+}
+{
+   Name: FilesStats
+   Size: 29.0 ko
+   Path: C:\APPS\run\FilesStats\out\production\FilesStats
+   is Hidden: false
+   Created at: 2020-11-07T14:29:13.903434Z
+   Last access at: 2020-11-07T16:09:59.016144Z
+   Parent Name: production
+   Parent Path: C:\APPS\run\FilesStats\out\production
+}
+{
+   Name: com
+   Size: 29.0 ko
+   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com
+   is Hidden: false
+   Created at: 2020-11-07T16:09:59.016144Z
+   Last access at: 2020-11-07T16:09:59.016144Z
+   Parent Name: FilesStats
+   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats
+}
+{
+   Name: jules
+   Size: 29.0 ko
+   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules
+   is Hidden: false
+   Created at: 2020-11-07T16:09:59.016144Z
+   Last access at: 2020-11-07T21:28:20.401549Z
+   Parent Name: com
+   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com
+}
+{
+   Name: creator
+   Size: 11.0 ko
+   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\creator
+   is Hidden: false
+   Created at: 2020-11-07T18:15:00.457458Z
+   Last access at: 2020-11-07T21:29:40.613686Z
+   Parent Name: jules
+   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules
+}
+{
+   Name: stats
+   Size: 6.0 ko
+   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\stats
+   is Hidden: false
+   Created at: 2020-11-07T17:07:10.073409Z
+   Last access at: 2020-11-07T20:32:17.198587Z
+   Parent Name: jules
+   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules
+}
+{
+   Name: tree
+   Size: 9.0 ko
+   Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules\tree
+   is Hidden: false
+   Created at: 2020-11-07T21:28:20.297827Z
+   Last access at: 2020-11-07T21:28:20.598025Z
+   Parent Name: jules
+   Parent Path: C:\APPS\run\FilesStats\out\production\FilesStats\com\jules
+}
+{
+   Name: src
+   Size: 19.0 ko
+   Path: C:\APPS\run\FilesStats\src
+   is Hidden: false
+   Created at: 2020-11-07T14:27:08.37482Z
+   Last access at: 2020-11-07T14:27:08.37482Z
+   Parent Name: FilesStats
+   Parent Path: C:\APPS\run\FilesStats
+}
+{
+   Name: com
+   Size: 19.0 ko
+   Path: C:\APPS\run\FilesStats\src\com
+   is Hidden: false
+   Created at: 2020-11-07T14:27:08.37482Z
+   Last access at: 2020-11-07T20:21:19.237011Z
+   Parent Name: src
+   Parent Path: C:\APPS\run\FilesStats\src
+}
+{
+   Name: jules
+   Size: 19.0 ko
+   Path: C:\APPS\run\FilesStats\src\com\jules
+   is Hidden: false
+   Created at: 2020-11-07T14:27:08.375815Z
+   Last access at: 2020-11-07T20:40:29.344186Z
+   Parent Name: com
+   Parent Path: C:\APPS\run\FilesStats\src\com
+}
+{
+   Name: creator
+   Size: 8.0 ko
+   Path: C:\APPS\run\FilesStats\src\com\jules\creator
+   is Hidden: false
+   Created at: 2020-11-07T17:21:06.827904Z
+   Last access at: 2020-11-07T21:29:37.705272Z
+   Parent Name: jules
+   Parent Path: C:\APPS\run\FilesStats\src\com\jules
+}
+{
+   Name: stats
+   Size: 4.0 ko
+   Path: C:\APPS\run\FilesStats\src\com\jules\stats
+   is Hidden: false
+   Created at: 2020-11-07T16:16:37.704913Z
+   Last access at: 2020-11-07T20:32:16.214008Z
+   Parent Name: jules
+   Parent Path: C:\APPS\run\FilesStats\src\com\jules
+}
+{
+   Name: tree
+   Size: 6.0 ko
+   Path: C:\APPS\run\FilesStats\src\com\jules\tree
+   is Hidden: false
+   Created at: 2020-11-07T14:27:25.331947Z
+   Last access at: 2020-11-07T21:28:18.248528Z
+   Parent Name: jules
+   Parent Path: C:\APPS\run\FilesStats\src\com\jules
+}
