@@ -1,3 +1,3 @@
 # FileStats
 
-Run the code in any directory and you will see the stats of your documents
+Run the code in any directory and you will see the statistics of your documents
